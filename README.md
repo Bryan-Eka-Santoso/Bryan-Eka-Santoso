@@ -16,7 +16,7 @@
 
 <h2>✒️ Recent Posts</h2>
 <ul>
-<li><a target="_blank" href="bryanekasantoso@gmail.com">📫 How to reach me</a></li>
+<li><a target="_blank" href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=bryanekasantoso@gmail.com">📫 How to reach me</a></li>
 <li><a target="_blank" href="https://bryan-eka-santoso.github.io/portfolio-css24/experience.html">📄 Know about my experiences</a></li>
 <li><a target="_blank" href="https://portofolio-bryan.blogspot.com/">📝 I regularly write articles about database on</a></li>
 <h2>⚡️ Where to find me</h2>
