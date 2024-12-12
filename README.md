@@ -18,7 +18,7 @@
 <ul>
 <li><a target="_blank" href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=bryanekasantoso@gmail.com">📫 How to reach me</a></li>
 <li><a target="_blank" href="https://bryan-eka-santoso.github.io/portfolio-css24/experience.html">📄 Know about my experiences</a></li>
-<li><a target="_blank" href="https://portofolio-bryan.blogspot.com/">📝 I regularly write articles about database on</a></li>
+<li><a target="_blank" href="https://portofolio-bryan.blogspot.com/">📝 I regularly write articles about database</a></li>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://dev.to/bryan-eka-santoso" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/bryan-eka-santoso-8a6579338" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
