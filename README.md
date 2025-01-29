@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+</div>
+
 <h1>Hi 👋, I'm Bryan Eka Santoso</h1>
 <p>Hello! My name is Bryan Eka Santoso, and I am a Frontend Developer based in Surabaya, Indonesia. I graduated from SMK Krian 1 Sidoarjo, specializing in Software Engineering. Currently, I am continuing my studies in Informatics at the Institut Sains dan Teknologi Terpadu Surabaya.</p>
 <h2>🚀 Languages and Tools I Use</h2>
@@ -37,3 +41,7 @@
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bryan-Eka-Santoso" alt="Bryan-Eka-Santoso" /></a>
 </p>
+
+<div align="center">
+  ![snake gif](https://github.com/anharsaja/anharsaja/blob/output/github-contribution-grid-snake-dark.svg)
+</div>
