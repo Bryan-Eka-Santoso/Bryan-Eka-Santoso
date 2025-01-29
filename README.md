@@ -41,7 +41,3 @@
 <p>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bryan-Eka-Santoso" alt="Bryan-Eka-Santoso" /></a>
 </p>
-
-<div align="center">
-  ![snake gif](https://github.com/anharsaja/anharsaja/blob/output/github-contribution-grid-snake-dark.svg)
-</div>
