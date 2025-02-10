@@ -22,9 +22,9 @@
   
 <h2>✒️ Recent Posts</h2>
 <ul>
-    <li><a target="_blank" href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=bryanekasantoso@gmail.com">📫 How to reach me</a></li>
-    <li><a target="_blank" href="https://bryan-eka-santoso.github.io/portfolio-css24/experience.html">📄 Know about my experiences</a></li>
-    <li><a target="_blank" href="https://portofolio-bryan.blogspot.com/">📝 I regularly write articles about database</a></li>
+    <li><a target="_blank" href="https://mail.google.com/mail/u/0/?view=cm&tf=1&fs=1&to=bryanekasantoso@gmail.com">📫 How To Reach Me</a></li>
+    <li><a target="_blank" href="https://bryan-eka-santoso.pages.dev/">📄 Know About My Resume</a></li>
+    <li><a target="_blank" href="https://portofolio-bryan.blogspot.com/">📝 My Articles About Database</a></li>
 </ul>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://dev.to/bryan-eka-santoso" style="display: inline-block;"><img src="https://img.shields.io/badge/dev-to?style=for-the-badge&logo=dev-to&logoColor=white&color=black" alt="dev.to" /></a>
