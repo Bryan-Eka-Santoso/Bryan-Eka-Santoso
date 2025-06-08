@@ -3,7 +3,7 @@
 </div>
 
 <h1>Hi 👋, I'm Bryan Eka Santoso</h1>
-<p>Hello! My name is Bryan Eka Santoso, and I am a Frontend Developer based in Surabaya, Indonesia. I graduated from SMK Krian 1 Sidoarjo, specializing in Software Engineering. Currently, I am continuing my studies in Informatics at the Institut Sains dan Teknologi Terpadu Surabaya.</p>
+<p>Hello! My name is Bryan Eka Santoso, and I am a Web Developer based in Surabaya, Indonesia. I graduated from SMK Krian 1 Sidoarjo, specializing in Software Engineering. Currently, I am continuing my studies in Informatics at the Institut Sains dan Teknologi Terpadu Surabaya.</p>
 <h2>🚀 Languages and Tools I Use</h2>
   
 <p>
