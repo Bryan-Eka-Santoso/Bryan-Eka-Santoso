@@ -38,6 +38,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Bryan-Eka-Santoso&show_icons=true&locale=en" alt="Bryan-Eka-Santoso" />
   <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bryan-Eka-Santoso" alt="Bryan-Eka-Santoso" /></p> -->
 </p>
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Bryan-Eka-Santoso" alt="Bryan-Eka-Santoso" /></a>
-</p>
